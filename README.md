@@ -1,3 +1,3 @@
-# dicer
+# RPG Dice
 
 RPG Würfel, als Dart/Flutter-Variante...
